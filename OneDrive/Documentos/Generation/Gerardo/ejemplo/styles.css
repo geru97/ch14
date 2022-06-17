@@ -1,0 +1,19 @@
+* {
+    padding: 0;
+    margin: 0;
+    
+}
+
+h1 {
+    padding: 20px;
+    text-align: center;
+    background: black;
+    color: whitesmoke;
+    font-size: 28px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h2 {
+    padding: 10px;
+
+}
